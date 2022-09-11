@@ -22,7 +22,7 @@ img{
     justify-content: center;  /* up-down */
     align-items: center;  /* left-right */
     max-width: 500px;
-    max-height: 560px;
+    max-height: auto;
     padding: 30px;
     padding-top: 60px;
     border: none;
@@ -46,14 +46,14 @@ img{
 
 .description h1{
     font-family: 'Tangerine', cursive;
-    font-size: 3.4vw;
+    font-size: 40px;
     font-weight: 900;
 
 }
 
 .description h3{
     font-size: 20px;
-    font-size: 1.7vw;
+    
 }
 .location{
     display: flex;
@@ -89,3 +89,40 @@ img{
     transition: .2s;
 }
 
+
+
+@media screen and (max-width:398px){
+
+    .profile{
+        background-image: linear-gradient(to right, rgb(173, 100, 209) , rgb(206, 158, 230),rgb(222, 186, 240));
+    }
+
+
+    .profile img{
+        max-width: 170px;
+    }
+     h1,h3{
+        text-align: center;
+        
+    }
+    .description-info{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .social{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    
+}
+
+@media screen and (max-width:218px){
+    .profile img{
+        max-width: 136px;
+    }
+
+}
