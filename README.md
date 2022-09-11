@@ -1,3 +1,3 @@
 # Profile-UI-card
 
-[DEMO](https://charming-sprinkles-51a50e.netlify.app/)
+[DEMO](https://helpful-kangaroo-fa0e13.netlify.app/)
