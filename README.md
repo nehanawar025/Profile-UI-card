@@ -18,8 +18,8 @@ This is my responsive Profile UI card
 
 ### Links
 
-- Solution URL: [Here](https://github.com/nehanawar025/QR-CODE)
-- Live Site URL: [Here](https://nehanawar025.github.io/QR-CODE/)
+- Solution URL: [Here](https://github.com/nehanawar025/Profile-UI-card)
+- Live Site URL: [Here](https://helpful-kangaroo-fa0e13.netlify.app/)
 
 
 ### Built with
@@ -29,6 +29,3 @@ This is my responsive Profile UI card
 - SCSS
 
 
-
-
-[DEMO](https://helpful-kangaroo-fa0e13.netlify.app/)
