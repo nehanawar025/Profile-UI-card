@@ -26,6 +26,6 @@ This is my responsive Profile UI card
 
 - HTML5 
 - CSS custom properties
-- SCSS
+- CSS (media query)
 
 
